@@ -1,2 +1,2 @@
 # Modbus-E3DC
-Reads the  electricity consumption of may house in realtime
+Reads the  electricity consumption of your house in realtime
